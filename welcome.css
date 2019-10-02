@@ -1,0 +1,11 @@
+html{
+    background-image: url('welcomebbg.jpg');
+    background-size: cover;
+  }
+  canvas{
+    z-index: 2;
+  }
+  .fix{
+    width: 100%;
+    height: auto;
+  }
